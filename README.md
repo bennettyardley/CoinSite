@@ -14,4 +14,4 @@ The actual coin flipping game. Allows a user to gamble a certain amount of coins
 Some javascript for the login page transition.
 
 ## style.css
-The stylesheet for the website.
+The stylesheet for the website
