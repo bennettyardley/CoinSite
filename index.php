@@ -8,7 +8,7 @@
 </head>
 <body>
 <div class="login-page">
-  <div class="form">
+  <div class="">
     <form method="POST" id="register" action="" class="register-form">
         <input type="hidden" name="submittedregister" value="true"/>
         <input type="text" placeholder="Username" name="username">
